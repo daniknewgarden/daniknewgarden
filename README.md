@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="30px" height="30">
 
 <!--
 **daniknewgarden/daniknewgarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
