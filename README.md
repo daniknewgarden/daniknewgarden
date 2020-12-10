@@ -1,4 +1,4 @@
-# Hello! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="60px">
+# Hello! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="10px">
 
 ## Work from home <img src="https://media.giphy.com/media/QTxCEgcvorSGCSXxKE/giphy.gif" width="7%">
 
