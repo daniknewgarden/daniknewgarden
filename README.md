@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/boom.gif" style="width: 45px">
+# Hello! <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/boom.gif" width="50px">
 
 <!-- **daniknewgarden/daniknewgarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
