@@ -1,15 +1,34 @@
 # Hey, I'm Danik Newgarden! <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/hi.gif" width="50px">
 
-I'm **frontend developer**. Working from home <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/home.gif" width="35px">
+## Frontend developer. Working from home <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/home.gif" width="45px">
+
+I like to create beautiful and accessible interfaces <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/holy.gif" width="35px">
+
 <br/>
 
-### Currently working with <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/glasses.gif" width="45px">
+### Skills <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/glasses.gif" width="35px">
 
-### Currently learning <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/nice.gif" width="45px">
+- HTML
 
+- CSS / SCSS
 
+- JavaScript
 
-### My last projects <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/laptop.gif" width="45px">
+- React
+
+- Redux
+
+### Currently learning <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/nice.gif" width="35px">
+
+- TypeScript
+
+### My last projects <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/laptop.gif" width="35px">
+
+[**Currency converter**](https://github.com/daniknewgarden/react-converter)
+
+[**Hooks for React**](https://github.com/daniknewgarden/amazing-react-hooks)
+
+[**Webpack config**](https://github.com/daniknewgarden/webpack-config)
 
 <!-- Emoji links
 hi https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/hi.gif
