@@ -1,16 +1,4 @@
-# Hello! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="45px">
-
-## Work from home <img src="https://media.giphy.com/media/QTxCEgcvorSGCSXxKE/giphy.gif" width="7%">
-
-<img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="45px">
-
-<img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="5%">
-
-<img src="https://media.giphy.com/media/ZdNlmHHr7czumQPvNE/giphy.gif" width="5%">
-
-<img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="5%">
-
-<img src="https://media.giphy.com/media/MAcTx2rdS1qTprIScT/giphy.gif" width="5%">
+# Hello! <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/boom.gif" style="width: 45px">
 
 <!-- **daniknewgarden/daniknewgarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
