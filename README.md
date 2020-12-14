@@ -2,23 +2,23 @@
 
 ## Frontend developer. Working from home <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/home.gif" width="45px">
 
-I like to create beautiful and accessible interfaces <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/holy.gif" width="25px">
+**I like to create beautiful and accessible interfaces** <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/holy.gif" width="25px">
 
 ### Skills <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/glasses.gif" width="35px">
 
-- HTML
+- **HTML**
 
-- CSS / SCSS
+- **CSS / SCSS**
 
-- JavaScript
+- **JavaScript**
 
-- React
+- **React**
 
-- Redux
+- **Redux**
 
 ### Currently learning <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/nice.gif" width="35px">
 
-- TypeScript
+- **TypeScript**
 
 ### My last projects <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/laptop.gif" width="35px">
 
