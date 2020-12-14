@@ -2,9 +2,7 @@
 
 ## Frontend developer. Working from home <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/home.gif" width="45px">
 
-I like to create beautiful and accessible interfaces <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/holy.gif" width="35px">
-
-<br/>
+I like to create beautiful and accessible interfaces <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/holy.gif" width="25px">
 
 ### Skills <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/glasses.gif" width="35px">
 
