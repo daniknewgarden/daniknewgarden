@@ -19,6 +19,7 @@
 ### Currently learning <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/nice.gif" width="35px">
 
 - **TypeScript**
+- **GraphQL / Apollo**
 
 ### My last projects <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/laptop.gif" width="35px">
 
