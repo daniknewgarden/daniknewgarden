@@ -20,7 +20,10 @@
 
 - **TypeScript**
 - **GraphQL / Apollo**
-- **Jest**
+
+### React components library <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/eyes.gif" width="35px">
+
+[**Exo design system**](https://github.com/daniknewgarden/exo-ui)
 
 ### My last projects <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/laptop.gif" width="35px">
 
