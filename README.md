@@ -7,19 +7,17 @@
 ### Skills <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/glasses.gif" width="35px">
 
 - **HTML**
-
 - **CSS / SCSS**
-
 - **JavaScript**
-
+- **TypeScript**
+- **GraphQL / Apollo**
 - **React**
-
 - **Redux**
 
 ### Currently learning <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/nice.gif" width="35px">
 
-- **TypeScript**
-- **GraphQL / Apollo**
+- **Next js**
+- **Redux sagas**
 
 ### React components library <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/eyes.gif" width="35px">
 
