@@ -13,11 +13,9 @@
 - **GraphQL / Apollo**
 - **React**
 - **Redux**
+- **Next js**
 
 ### Currently learning <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/nice.gif" width="35px">
-
-- **Next js**
-- **Redux sagas**
 
 ### React components library <img src="https://raw.githubusercontent.com/daniknewgarden/daniknewgarden/main/emoji/120x120/eyes.gif" width="35px">
 
